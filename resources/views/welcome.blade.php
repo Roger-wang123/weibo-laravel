@@ -92,9 +92,7 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                    <a href="https://www.baidu.com">百度</a>
-                    <a href="https://www.google.com">谷歌</a>
-                    <a href="https://www.hao123.com">hao123</a>
+                    <a href="https://www.google.com">google</a>
                 </div>
             </div>
         </div>
